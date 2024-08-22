@@ -2,21 +2,18 @@
 layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
-Hi, I'm Krzysztof Wujs!
+Hello there, I'm Krzysztof Wujs!
 
-I am a Technical Product Manager and hobbyst full-stack developer based in Poznań, Poland. My tech journey began in 2012 when I started studying Computer Science at Poznań University of Technology. In 2014, a pivotal internship not only laid the foundation for my diverse technical skill set but also unexpectedly steered me towards product ownership, igniting a passion for product development that continues to drive me today.
+I am a technical PM and full-stack developer based in Poznań, Poland. My technical journey started in 2012, when I started studying computer science at Poznan University of Technology. In 2014, I started my internship as a Software Engineer, which eventually evolved into a Product Owner role, shaping my career path in both technical development and product ownership, and igniting a passion for product development that still drives me today.
 
-Throughout my career, I've developed a wide portfolio of solutions, including:
-
+Throughout my career, I've successfully crafted and delivered a diverse range of solutions, including:
 - Ticketing and event management platform
 - Tournament platform for competetive gaming
 - CRM & Marketing automation system for hoteliers
 - Mobile Banking solutions
 - AI solutions for Healthcare
 
-Since 2020, I've been at the forefront of blockchain and Web3 technologies, expanding my expertise in Self-Sovereign-Identity (SSI), Zero-Knowledge (ZK) solutions, and Decentralized Applications (dApps).
-
-My career journey from Computer Science student to Technical Product Manager is a testament to the dynamic nature of careers in the IT industry. I leverage my technical background and product management skills to bridge the gap between development teams and business stakeholders, consistently delivering innovative solutions that meet user needs.
+Since 2020, I've been focusing on blockchain and Web3 technologies, specifically self-sovereign identity (SSI), zero-knowledge (ZK) solutions and decentralised applications (dApps). My broad experience allows me to leverage my technical and product management skills to facilitate collaboration between development teams and business stakeholders, ensuring the creation of user-centric solutions that align with business objectives and meet user needs.
 
 ### Skills & Experience
 
