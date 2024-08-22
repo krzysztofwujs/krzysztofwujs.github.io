@@ -29,7 +29,7 @@ My career journey from Computer Science student to Technical Product Manager is 
 - API Design, CI/CD, Developer Relations, Full-stack Development, Microservices, QA Testing, System Design, Developer Experience
 
 ##### Technical Writing:
-- Technical Blog Posts. Technical Specifications, User Manuals
+- Technical Blog Posts, Technical Specifications, User Manuals & Product Documentation
 
 ##### UX/UI:
 - Excalidraw, Figma, MermaidJS, Miro
