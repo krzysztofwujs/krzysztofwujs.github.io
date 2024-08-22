@@ -4,7 +4,7 @@ title: "About Me"
 ---
 Hello there, I'm Krzysztof Wujs!
 
-I am a technical PM and full-stack developer based in Poznań, Poland. My technical journey started in 2012, when I started studying computer science at Poznan University of Technology. In 2014, I started my internship as a Software Engineer, which eventually evolved into a Product Owner role, shaping my career path in both technical development and product ownership, and igniting a passion for product development that still drives me today.
+I am a Technical PM and hobbyist full-stack developer based in Poznań, Poland. My technical journey began in 2012 when I embarked on my computer science studies at Poznań University of Technology. In 2014, I commenced an internship as a Software Developer, which gradually evolved into a Product Owner role. This transition shaped my career path, blending technical development with product ownership, and ignited a passion for product development that continues to drive me today.
 
 Throughout my career, I've successfully crafted and delivered a diverse range of solutions, including:
 - Ticketing and event management platform
