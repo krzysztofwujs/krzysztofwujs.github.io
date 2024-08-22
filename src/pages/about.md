@@ -48,11 +48,11 @@ Since 2020, I've been focusing on blockchain and Web3 technologies, specifically
 
 #### Education
 ##### M.Sc in Business Administration & Management
-###### Poznań WSB University | 2018 ~ 2020
+###### Poznań, WSB University | 2018 ~ 2020
 * Studied management, product strategy, agile methodologies
 * Thesis: Differences Between Traditional and Modern Project Management Methodologies, Illustrated by the Example of the Scaled Agile Framework.
 
 ##### B.Eng in Computer Science
-###### Poznań WSB University | 2015 ~ 2018
+###### Poznań, WSB University | 2015 ~ 2018
 * Studied computer science, e-commerce and data structures
 * Thesis: Streamlining Cross‐Platform Mobile App Rapid Prototyping with React Native and Firebase.
