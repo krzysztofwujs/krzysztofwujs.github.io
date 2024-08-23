@@ -11,7 +11,7 @@ Throughout my career, I've successfully builded and delivered a diverse range of
 - Tournament platform for competetive gaming
 - CRM & Marketing automation system for hoteliers
 - Mobile Banking solutions
-- AI solutions for Healthcare
+- AI & IoT solutions for Healthcare
 
 Since 2020, I've been focusing on blockchain and Web3 technologies, specifically self-sovereign identity (SSI), zero-knowledge (ZK) solutions and decentralised applications (dApps). My broad experience allows me to leverage my technical and product management skills to facilitate collaboration between development teams and business stakeholders, ensuring the creation of user-centric solutions that align with business objectives and meet user needs.
 
