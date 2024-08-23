@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
-Hello there, I'm Krzysztof Wujs!
+Hey, I'm Krzysztof Wujs 👋
 
 I am a Technical PM and full-stack developer based in Poznań, Poland. I began my technical journey in 2012 at Poznań University of Technology, where I studied computer science. In 2014, I started an internship as a Software Developer, which gradually evolved into a Product Owner role. This transition shaped my career path, blending software development with product ownership, and ignited a passion for product development that continues to drive me today.
 
