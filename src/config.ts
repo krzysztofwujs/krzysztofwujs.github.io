@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://wujs.xyz/", // replace this with your deployed domain
   author: "Krzysztof Wujs",
   profile: "https://wujs.xyz/",
-  desc: "Wujs Writings",
-  title: "Wujs.xyz",
+  desc: "Krzysztof Wujs",
+  title: "wujs.xyz",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
