@@ -4,7 +4,7 @@ title: "About Me"
 ---
 Hello there, I'm Krzysztof Wujs!
 
-I am a Technical PM and hobbyist full-stack developer based in Poznań, Poland. My technical journey began in 2012 when I embarked on my computer science studies at Poznań University of Technology. In 2014, I commenced an internship as a Software Developer, which gradually evolved into a Product Owner role. This transition shaped my career path, blending software development with product ownership, and ignited a passion for product development that continues to drive me today.
+I am a Technical PM and full-stack developer based in Poznań, Poland. I began my technical journey in 2012 at Poznań University of Technology, where I studied computer science. In 2014, I started an internship as a Software Developer, which gradually evolved into a Product Owner role. This transition shaped my career path, blending software development with product ownership, and ignited a passion for product development that continues to drive me today.
 
 Throughout my career, I've successfully builded and delivered a diverse range of solutions, including:
 - Ticketing and event management platform
@@ -53,6 +53,6 @@ Since 2020, I've been focusing on blockchain and Web3 technologies, specifically
 * Thesis: Differences Between Traditional and Modern Project Management Methodologies, Illustrated by the Example of the Scaled Agile Framework.
 
 ##### B.Eng in Computer Science
-###### Poznań, WSB University | 2015 ~ 2018
+###### Poznańm WSB University | 2015 ~ 2018
 * Studied computer science, e-commerce and data structures
 * Thesis: Streamlining Cross‐Platform Mobile App Rapid Prototyping with React Native and Firebase.
