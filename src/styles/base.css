@@ -70,12 +70,12 @@
 
   /* ===== scrollbar ===== */
   html {
-    overflow-y: scroll;
+    overflow-auto: scroll;
   }
 
   /* width */
   ::-webkit-scrollbar {
-    @apply w-3;
+    @apply w-1.5;
   }
 
   /* Track */
