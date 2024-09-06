@@ -41,7 +41,7 @@ Since 2020, I've been focusing on blockchain and Web3 technologies, specifically
 - Astro, Svelte
 
 ##### Programming Languages:
-- CSS, HTML, JavaScript, Rust (Learning), Solidity, TypeScript
+- CSS, HTML, JavaScript, Solidity, TypeScript, Rust (Learning)
 
 ##### Tooling:
 - Git, Shell
@@ -53,6 +53,6 @@ Since 2020, I've been focusing on blockchain and Web3 technologies, specifically
 * Thesis: Differences Between Traditional and Modern Project Management Methodologies, Illustrated by the Example of the Scaled Agile Framework.
 
 ##### B.Eng in Computer Science
-###### Poznańm WSB University | 2015 ~ 2018
+###### Poznań, WSB University | 2015 ~ 2018
 * Studied computer science, e-commerce and data structures
 * Thesis: Streamlining Cross‐Platform Mobile App Rapid Prototyping with React Native and Firebase.
