@@ -15,6 +15,7 @@ Throughout my career, I've successfully builded and delivered a diverse range of
 
 Since 2020, I've been focusing on blockchain and Web3 technologies, specifically self-sovereign identity (SSI), zero-knowledge (ZK) solutions and decentralised applications (dApps). My broad experience allows me to leverage my technical and product management skills to facilitate collaboration between development teams and business stakeholders, ensuring the creation of user-centric solutions that align with business objectives and meet user needs.
 
+
 ### Skills & Experience
 
 #### Product Skills
@@ -50,9 +51,9 @@ Since 2020, I've been focusing on blockchain and Web3 technologies, specifically
 ##### M.Sc in Business Administration & Management
 ###### Poznań, WSB University | 2018 ~ 2020
 * Studied management, product strategy, agile methodologies
-* Thesis: Differences Between Traditional and Modern Project Management Methodologies, Illustrated by the Example of the Scaled Agile Framework.
+* Thesis: Differences between traditional and modern project management methodologies, illustrated by the example of the Scaled Agile Framework.
 
 ##### B.Eng in Computer Science
 ###### Poznań, WSB University | 2015 ~ 2018
 * Studied computer science, e-commerce and data structures
-* Thesis: Streamlining Cross‐Platform Mobile App Rapid Prototyping with React Native and Firebase.
+* Thesis: Streamlining cross‐platform mobile app rapid prototyping with React Native and Firebase.
