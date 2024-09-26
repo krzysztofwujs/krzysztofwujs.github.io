@@ -1,0 +1,90 @@
+---
+import { Image } from "astro:assets";
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+
+const meta = {
+  title: "About",
+  description: "More about me",
+};
+---
+
+<PageLayout meta={meta}>
+  <div class="space-y-6">
+    <h1 class="title">About</h1>
+    <p>
+      Hello! I am a Technical PM and full-stack developer based in Poznań,
+      Poland. I began my technical journey in 2012 at Poznań University of
+      Technology, where I studied computer science. In 2014, I started an
+      internship as a Software Developer, which gradually evolved into a Product
+      Owner role. This transition shaped my career path, blending software
+      development with product ownership, and ignited a passion for product
+      development that continues to drive me today.
+      <p>
+        Throughout my career, I have successfully developed and delivered a
+        diverse portfolio of solutions, including:
+      </p>
+      <ul class="list-inside list-disc">
+        <li>Ticketing and event management platform</li>
+        <li>Tournament platform for competetive gaming</li>
+        <li>CRM & marketing automation system for hoteliers</li>
+        <li>Mobile banking solutions</li>
+        <li>AI & IoT solutions for Healthcare</li>
+        <p>and many more...</p>
+      </ul>
+      <p>
+        Since 2020, I’ve been focusing my research on blockchain and Web3
+        technologies, specifically self-sovereign identity (SSI), zero-knowledge
+        (ZK) solutions and decentralised applications (dApps). My broad
+        experience allows me to leverage my technical and product management
+        skills to facilitate collaboration between development teams and
+        business stakeholders, ensuring the creation of user-centric solutions
+        that align with business objectives and meet user needs.
+      </p>
+      <h2>Skills & Experience</h2>
+
+      <h3>Product/Project Management:</h3>
+      <li>
+        Agile Methodologies, Backlog Prioritization, Business Analysis, Data
+        Analysis and Visualisation, OKR/KPI, Product Discovery & Delivery,
+        Product Roadmapping, Requirement Gathering, Strategic Partnerships
+      </li>
+      <h3>Software Development:</h3>
+      <li>
+        CI/CD, Developer Relations, Full-stack Development, Microservices, QA
+        Testing, System Design, Developer Experience
+      </li>
+      <h3>Technical Writing:</h3>
+      <li>
+        Technical Blog Posts, Technical Specifications, User Manuals & Product
+        Documentation
+      </li>
+      <h3>UX/UI:</h3>
+      <li>Excalidraw, Figma, MermaidJS, Miro</li>
+      <h2>Technical Skills</h2>
+      <h3>Backend & Databases:</h3>
+      <li>BunJS, NodeJS, TypeScript, MySQL, PostgresSQL</li>
+      <h3>Frameworks:</h3>
+      <li>Astro, Svelte</li>
+      <h3>Programming Languages:</h3>
+      <li>CSS, HTML, JavaScript, Solidity, TypeScript, Rust (Learning)</li>
+      <h2>Education</h2>
+      <h3>M.Sc in IT Management, WSB University, Poznań, 2018-2020</h3>
+      <p>
+        <b>Studied:</b> IT Management, Product Strategy, Agile Methodologies
+        <p>
+          <b>Thesis:</b> Differences between traditional and modern project management
+          methodologies, illustrated by the example of the Scaled Agile Framework.
+        </p>
+        <h3>B.Eng in Computer Science, WSB University, Poznań, 2018-2020</h3>
+        <p>
+          <b>Studied:</b> Full-stack development, E-commerce, Data Structures
+          <p>
+            <b>Thesis:</b> Streamlining cross‐platform mobile app rapid prototyping
+            with React Native and Firebase.
+          </p>
+        </p>
+      </p>
+    </p>
+  </div>
+</PageLayout>
