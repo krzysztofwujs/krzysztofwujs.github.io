@@ -2,40 +2,55 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-	:root,
-	:root[data-theme="light"] {
-		color-scheme: light;
-		/* https://tailwindcss.com/docs/customizing-colors#using-css-variables */
-		--theme-bg: 0deg 0% 98%;
-		--theme-link: 172deg 18% 41%;
-		--theme-text: 203deg 11% 15%;
-		--theme-accent: 351deg 66% 48%;
-		--theme-accent-2: 200deg 0% 7%;
-		--theme-quote: 150deg 66% 48%;
-	}
+@font-face {
+  font-family: "0xProto Nerd";
+  src: url("/0xProtoNerdFont-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "0xProto Nerd";
+  src: url("/0xProtoNerdFont-Regular.ttf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
-	:root[data-theme="dark"] {
-		color-scheme: dark;
-		--theme-bg: 215deg 92% 7%;
-		--theme-link: 330deg 49% 67%;
-		--theme-text: 199deg 40% 89%;
-		--theme-accent: 44deg 16% 79%;
-		--theme-accent-2: 175deg 25% 86%;
-		--theme-quote: 102deg 100% 86%;
-	}
-	html {
-		@apply scroll-smooth;
-	}
+@layer base {
+  :root,
+  :root[data-theme="light"] {
+    color-scheme: light;
+    /* https://tailwindcss.com/docs/customizing-colors#using-css-variables */
+    --theme-bg: 0deg 0% 98%;
+    --theme-link: 172deg 18% 41%;
+    --theme-text: 203deg 11% 15%;
+    --theme-accent: 351deg 66% 48%;
+    --theme-accent-2: 200deg 0% 7%;
+    --theme-quote: 150deg 66% 48%;
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --theme-bg: 215deg 92% 7%;
+    --theme-link: 330deg 49% 67%;
+    --theme-text: 199deg 40% 89%;
+    --theme-accent: 44deg 16% 79%;
+    --theme-accent-2: 175deg 25% 86%;
+    --theme-quote: 102deg 100% 86%;
+  }
+  html {
+    @apply scroll-smooth;
+  }
 }
 h2 {
-	font-size: 18px;
-	margin-bottom: 10px;
-	font-weight: bolder;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: bolder;
 }
 
 h3 {
-	font-size: 16px;
-	margin-bottom: 8px;
-	font-weight: lighter;
+  font-size: 16px;
+  margin-bottom: 8px;
+  font-weight: lighter;
 }
